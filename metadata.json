@@ -1,0 +1,8 @@
+{
+  "name": "Mama-Rafiki",
+  "description": "An audio-guided, icon-based health platform providing accessible maternal care tracking for low-literacy and rural expectant mothers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,17 +1,20 @@
-## Hi there 👋
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
 
-<!--
-**leonrigam/leonrigam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Run and deploy your AI Studio app
 
-Here are some ideas to get you started:
+This contains everything you need to run your app locally.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning java, c++, html and css
-...
-- 👯 I’m looking to collaborate on other IT proffesionals...
-- 🤔 I’m looking for help with programming...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+View your app in AI Studio: https://ai.studio/apps/8dcc0262-7e0a-47b2-b927-08ac0b2856d0
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
